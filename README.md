@@ -19,7 +19,7 @@ If you wish to collaborate while the project is still young, check out [our issu
 
 Before submitting new issues, have a look at [issues marked with the `type: faq` label](https://github.com/angular/angular-cli/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3A%22type%3A%20faq%22%20).  
 
-## Webpack 更新
+## Webpack 更新 (SystemJS => Webpack)
 
 We changed the build system between beta.10 and beta.14, from SystemJS to Webpack.
 And with it comes a lot of benefits.
