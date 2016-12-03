@@ -1,4 +1,4 @@
-update CLI 1.0.0.beta22
+# update CLI 1.0.0.beta22
 
 ```
 $ npm i -g angular-cli@v1.0.0-beta.22
