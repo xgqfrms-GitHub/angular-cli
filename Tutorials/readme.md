@@ -2,3 +2,14 @@
 
 
 
+
+## github & chrome error
+
+error? can not edit the file on Chrome!
+what's wrong with this?
+
+You can't perform that action at this time.
+
+
+
+
