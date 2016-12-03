@@ -1,5 +1,6 @@
 update CLI 1.0.0.beta22
 
+```
 $ npm i -g angular-cli@v1.0.0-beta.22
 
 $ ng new app
@@ -21,3 +22,5 @@ $ ng build
 ## publish production version (./dist)  
 ## (./angular-cli.json & ./src/environments/environment.prod.ts)
 $ ng build --env=prod
+``` 
+
